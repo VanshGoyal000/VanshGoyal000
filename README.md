@@ -5,7 +5,7 @@
 
 I am currently learning Dsa in C++
 
-💻 Skills: C++, C, MERN Stack, Golang, Rust.
+💻 Skills: C++, C, MERN Stack, Golang.
 
 🧠 Interests: PyTorch, ML, OS.
 
